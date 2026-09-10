@@ -1,0 +1,17 @@
+{
+  "name": "genpark-viterbi-hidden-markov-cpg-islands-skill",
+  "version": "1.0.0",
+  "description": "Hidden Markov Model (HMM) Viterbi decoding algorithm detecting CpG islands and biological state transitions across genomic sequences.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hmm",
+    "cpg-islands",
+    "viterbi-decoding",
+    "genomics",
+    "bioinformatics"
+  ],
+  "dependencies": []
+}
